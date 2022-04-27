@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 4 2018
 
-@author: Dimitri Pédron
+@author: Mohamed Sassi, Dimitri Pédron
 """
 import os
 import pandas as panda
